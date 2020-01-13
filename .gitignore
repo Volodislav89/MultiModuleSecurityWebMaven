@@ -1,0 +1,4 @@
+# Project exclude paths
+/ParrotModule/target/
+/SecurityModule/target/
+/StartModule/target/
